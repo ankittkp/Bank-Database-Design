@@ -1,4 +1,4 @@
-# Bank-DataBase-Design
+# Bank-Database-Design
 # 📩 Latest Blog Posts : https://dev.to/jinxankit/data-modelling-database-design-4hhc
 Database design is structuring data and organised relationships in a database. It goes beyond how the database further works.
 I was learning about a cool stuff [dbdigram.io](https://dbdiagram.io) for designing a database so hitting a random try for Bank Database design. 
